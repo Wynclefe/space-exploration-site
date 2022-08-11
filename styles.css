@@ -28,3 +28,6 @@ body {
     border-bottom: 4px solid antiquewhite;
 }
 
+#title {
+    text-shadow: 0 0 4px black;
+}
