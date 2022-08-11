@@ -29,5 +29,6 @@ body {
 }
 
 #title {
+    margin-top: 150px;
     text-shadow: 0 0 4px black;
 }
