@@ -13,7 +13,7 @@ body {
 #hero {
     background-image: url("images/galaxy.gif");
     background-size: cover;
-    padding: 0 0 200px 0;
+    padding: 0 0 150px ;
 } 
 
 .btn {
@@ -31,4 +31,11 @@ body {
 #title {
     margin-top: 150px;
     text-shadow: 0 0 4px black;
+}
+
+#terms {
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    margin: 0;
 }
