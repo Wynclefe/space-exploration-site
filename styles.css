@@ -2,4 +2,5 @@ body {
     background-image: url("images/galaxy.gif");
     background-size: cover;
     color: antiquewhite;
+    text-align: center;
 }
