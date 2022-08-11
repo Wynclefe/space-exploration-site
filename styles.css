@@ -3,8 +3,7 @@
 }
 
 body {
-    background-image: url("images/galaxy.gif");
-    background-size: cover;
+
     color: #82a5ca;
     text-align: center;
     font-family: 'Orbitron', sans-serif;
@@ -13,6 +12,7 @@ body {
 #hero {
     background-image: url("images/galaxy.gif");
     background-size: cover;
+    padding: 0 0 100px 0;
 } 
 
 .btn {
