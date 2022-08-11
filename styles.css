@@ -4,3 +4,7 @@ body {
     color: antiquewhite;
     text-align: center;
 }
+
+.btn {
+    padding: 7px 14px;
+}
